@@ -29,15 +29,6 @@ A beautiful, interactive visualizer for **five popular sorting algorithms** buil
 - **Event Listeners** – To handle user interactions
 - **OOP** – For structured and modular code
 
----
-
-## 📷 Demo
-
-![Sorting Visualizer Preview](demo.gif) <!-- Optional: You can add a GIF of your running app -->
-
----
-
-## 🛠️ How to Run Locally
 
 ### 1. Prerequisites
 Make sure you have **Java JDK 8+** installed. You can verify by running:
